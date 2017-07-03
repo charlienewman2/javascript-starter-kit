@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 62027341,
+      "firstName": "Sylvan",
+      "lastName": "Becker",
+      "email": "Issac_Lakin@hotmail.com"
+    },
+    {
+      "id": 51605679,
+      "firstName": "Shania",
+      "lastName": "Collins",
+      "email": "Sanford.Friesen@yahoo.com"
+    },
+    {
+      "id": 38999597,
+      "firstName": "Curtis",
+      "lastName": "Kirlin",
+      "email": "Dino42@yahoo.com"
+    },
+    {
+      "id": 46325697,
+      "firstName": "Toney",
+      "lastName": "Ferry",
+      "email": "Daphne.Turner@gmail.com"
+    }
+  ]
+}
